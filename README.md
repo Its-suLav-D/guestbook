@@ -9,3 +9,13 @@ The purpose of this application is to understand to create a multi tier version 
 # Preivew Of the Application
 
 ![Application](./app.png)
+
+# Development Environment
+
+1. IBM Cloud Services -- Natural Language Translation
+2. Docker Container
+3. OpenShift
+4. Kubernetes
+5. Visual Studio Code
+
+Note -- This Project is part of IBM DevOp's and Software Engineering Program
